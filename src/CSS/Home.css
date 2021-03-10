@@ -1,0 +1,16 @@
+
+.profile{
+    align-items: center;
+    background-color: #D3D3D3;
+   
+}
+
+.profileimage{
+    margin-top:10px;
+    width: 200px;
+    border-radius: 50%;
+}
+
+.signoutbtn{
+    margin-bottom: 10px;
+}
