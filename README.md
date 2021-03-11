@@ -1,6 +1,6 @@
 
-[LIVE LINK](https://signauth-react.web.app/).
-### used technologies: ###
+DEMO : [LIVE LINK](https://signauth-react.web.app/).
+### Used Technologies: ###
 * note js : 14.16 version .
 * react js .
 * firebase(hosting,google auth signin).
@@ -24,6 +24,7 @@ You will also see any lint errors in the console.
 
 ### Disclaimer ###
 * In this project used firebase configure will delate soon. so please add your firebase project configure to the firebase.js
+* Create your firebase project in this link: [https://console.firebase.google.com/](https://console.firebase.google.com/)
 
 
 [LIVE LINK](https://signauth-react.web.app/)
