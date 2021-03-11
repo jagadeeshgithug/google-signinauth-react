@@ -1,14 +1,14 @@
 
-[LIVE LINK](https://signauth-react.web.app/)
+[LIVE LINK](https://signauth-react.web.app/).
 ###used technologies:
-note js : 14.16 version 
-react js 
-firebase(hosting,google auth signin)
+note js : 14.16 version .
+react js .
+firebase(hosting,google auth signin).
 
 ###Process:
-=>Download project from github and unzip
-=>Go into project directory in command prompt
-=>install all packages which are mentioned below
+=>Download project from github and unzip.
+=>Go into project directory in command prompt.
+=>install all packages which are mentioned below.
 ### `npm install -g firebase-tools`
 ### `npm install  firebase`
 ### `npm install  react-router-dom`
