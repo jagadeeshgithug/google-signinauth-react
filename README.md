@@ -1,9 +1,9 @@
 
 [LIVE LINK](https://signauth-react.web.app/).
 ###used technologies:###
-*note js : 14.16 version .
-*react js .
-*firebase(hosting,google auth signin).
+* note js : 14.16 version .
+* react js .
+* firebase(hosting,google auth signin).
 
 ###Process:###
 =>Download project from github and unzip.
